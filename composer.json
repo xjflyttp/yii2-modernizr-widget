@@ -10,7 +10,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/modernizr": "*"
+        "bower-asset/modernizr": "~2.8.0"
     },
     "autoload": {
         "psr-4": {
